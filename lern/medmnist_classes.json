@@ -1,0 +1,102 @@
+{
+  "pathmnist": [
+    "adipose",
+    "background",
+    "debris",
+    "lymphocytes",
+    "mucus",
+    "smooth muscle",
+    "normal colon mucosa",
+    "cancer-associated stroma",
+    "colorectal adenocarcinoma epithelium"
+  ],
+  "bloodmnist": [
+    "basophil",
+    "eosinophil",
+    "erythroblast",
+    "immature granulocytes(myelocytes, metamyelocytes and promyelocytes)",
+    "lymphocyte",
+    "monocyte",
+    "neutrophil",
+    "platelet"
+  ],
+  "breastmnist": [
+    "malignant breast ultrasound",
+    "normal or benign breast ultrasound"
+  ],
+  "dermamnist": [
+    "actinic keratoses and intraepithelial carcinoma",
+    "basal cell carcinoma",
+    "benign keratosis-like lesions",
+    "dermatofibroma",
+    "melanoma",
+    "melanocytic nevi",
+    "vascular lesions"
+  ],
+  "octmnist": [
+    "choroidal neovascularization retinal OCT",
+    "diabetic macular edema retinal OCT",
+    "drusen retinal OCT",
+    "normal retinal OCT"
+  ],
+  "organamnist": [
+    "bladder",
+    "femur-left",
+    "femur-right",
+    "heart",
+    "kidney-left",
+    "kidney-right",
+    "liver",
+    "lung-left",
+    "lung-right",
+    "pancreas",
+    "spleen"
+  ],
+  "organcmnist": [
+    "bladder",
+    "femur-left",
+    "femur-right",
+    "heart",
+    "kidney-left",
+    "kidney-right",
+    "liver",
+    "lung-left",
+    "lung-right",
+    "pancreas",
+    "spleen"
+  ],
+  "organsmnist": [
+    "bladder",
+    "femur-left",
+    "femur-right",
+    "heart",
+    "kidney-left",
+    "kidney-right",
+    "liver",
+    "lung-left",
+    "lung-right",
+    "pancreas",
+    "spleen"
+  ],
+  "pneumoniamnist": [
+    "normal chest x-ray",
+    "pneumonia chest x-ray"
+  ],
+  "retinamnist": [
+    "no diabetic retinopathy fundus image",
+    "mild diabetic retinopathy fundus image",
+    "moderate diabetic retinopathy fundus image",
+    "severe diabetic retinopathy fundus image",
+    "proliferative diabetic retinopathy fundus image"
+  ],
+  "tissuemnist": [
+    "collecting duct or connecting tubule kidney tissue",
+    "distal convoluted tubule kidney tissue",
+    "glomerular endothelial cells kidney tissue",
+    "interstitial endothelial cells kidney tissue",
+    "leukocytes kidney tissue",
+    "podocytes kidney tissue",
+    "proximal tubule segments kidney tissue",
+    "thick ascending limb kidney tissue"
+  ]
+}
